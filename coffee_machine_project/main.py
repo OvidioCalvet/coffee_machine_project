@@ -42,5 +42,28 @@ resources: dict = {
 
 }
 
+order_is_not_over: bool = True
+
+def are_resources_sufficient():
+    return
+
+def was_transaction_succesfull():
+    return
+
+def update_resources():
+    return
+
+def customer_response_evaluation():
+    return
+
+def make_coffee():
+    return
+
+
+
+while order_is_not_over:
+
+    customer_response: str = input('What would you like? (espresso/latte/cappuccino):')
+
 
 
