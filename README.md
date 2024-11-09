@@ -13,6 +13,3 @@ Run the main script `main.py` to start the coffee machine. Follow on-screen inst
 
 ## Requirements
 - Python 3.x
-
-## License
-This project is open-source under the [MIT License](LICENSE).
